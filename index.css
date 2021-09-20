@@ -1,0 +1,20 @@
+
+
+footer{
+    font-style: bold;
+}
+
+.lead { 
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+}
+
+.lead1 { 
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+} 
+
+/* style Breadcrumbs */
+
