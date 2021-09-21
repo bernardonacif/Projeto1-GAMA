@@ -18,3 +18,16 @@ footer{
 
 /* style Breadcrumbs */
 
+.breadcrumb-item active {
+    text-decoration-color: aqua;
+}
+
+/* style top button */
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: none;
+    background-color: blue;
+  }
