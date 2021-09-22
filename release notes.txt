@@ -1,0 +1,19 @@
+************** Release notes ************** 
+
+
+************** 19/09/2021 ************** 
+
+- Desenvolvimento do site com os requisitos minimos pedidos
+- hospedada versão beta em: https://beertime.netlify.app/
+
+************** 20/09/2021 ************** 
+
+- Botão topo
+- bradcrumb
+- melhorias navbar
+
+************** 22/09/2021 ************** 
+
+- nova página 'produtos'
+- scroll dinamico direcionando direto para a parte da págona selecionada
+- alteração da cor dos botões da pagina index
