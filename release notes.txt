@@ -27,3 +27,8 @@
 - repaginação do breadcrumb
 - adição do valores nos produtos
 
+
+************** 23/09/2021 ************** 
+
+- ajuste tamanho carolsel
+
