@@ -9,11 +9,21 @@
 ************** 20/09/2021 ************** 
 
 - Botão topo
-- bradcrumb
+- breadcrumb
 - melhorias navbar
 
 ************** 22/09/2021 ************** 
 
 - nova página 'produtos'
+- título na página produtos
 - scroll dinamico direcionando direto para a parte da págona selecionada
 - alteração da cor dos botões da pagina index
+- alteração cor dos icones hiperlink da pagina 
+
+************** 23/09/2021 ************** 
+
+- ajuste tamanho carolsel
+- ajuste orientação cards produtos
+- repaginação do breadcrumb
+- adição do valores nos produtos
+

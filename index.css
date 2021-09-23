@@ -12,14 +12,58 @@
 
 /* estilo texto vitrine */
 
-.texto_vitrine, .texto_produto{
+.texto_vitrine, 
+.texto_produto, 
+.valorvitrine, 
+.card-text, 
+.card-title {
     text-align: center;
+}
+
+.valorvitrine {
+    font-weight: bold;
 }
 
 /* estilo Breadcrumbs */
 
-.breadcrumb-item active {
-    text-decoration-color: aqua;
+.breadcrumb {
+    margin-top: 30px;
+    background: #EEB422;
+    
+}
+
+.breadcrumb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #1C1C1C;
+    border-radius: .25rem;
+    
+    
+}
+
+.breadcrumb >.active {
+    color: #EEB422;
+}
+
+.breadcrumb >.active a:link {
+     color: #ffffff;
+}
+
+a.breadcrumb-color :link {
+    color: #ffffff;
+}
+
+a:hover {
+    color:#ffffff;
+}
+
+a {
+    color: #ffffff;
 }
 
 /* estilo top button */
@@ -41,8 +85,8 @@
 /* carolsel */
 
 .imagem-carrossel {
-    max-height: 1800;
-    max-height: 600;
+    max-height: 1800px;
+    max-height: 600px;
     object-fit: cover;
 }
 
@@ -51,6 +95,12 @@
 
 .fab {
     color:black;
+}
+
+.seraqvai{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
 }
 
 
