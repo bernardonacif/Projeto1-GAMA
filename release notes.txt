@@ -36,3 +36,7 @@
 
 - ajuste tamanho carolsel mobile
 
+************** 23/09/2021 ************** 
+
+- ajuste forms quantidade do produto
+
